@@ -9,5 +9,6 @@ public class demo1 {
         System.out.println("dev one");
         System.out.println("three");
         System.out.println("dev three");
+        System.out.println("push");
     }
 }

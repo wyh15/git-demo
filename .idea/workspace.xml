@@ -77,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661863744508</updated>
       <workItem from="1661863745771" duration="591000" />
-      <workItem from="1661869252663" duration="594000" />
+      <workItem from="1661869252663" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1661864180644</created>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661865056043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="冲突合并">
+      <created>1661873537276</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873537276</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,10 +149,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="冲突合并" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="529" y="84" key="CommitChangelistDialog2" timestamp="1661873517291">
+    <state x="529" y="84" key="CommitChangelistDialog2" timestamp="1661873552863">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="529" y="84" key="CommitChangelistDialog2/0.0.1707.1067@0.0.1707.1067" timestamp="1661873517291" />
+    <state x="529" y="84" key="CommitChangelistDialog2/0.0.1707.1067@0.0.1707.1067" timestamp="1661873552863" />
     <state x="932" y="255" key="FileChooserDialogImpl" timestamp="1661863914982">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
@@ -166,10 +173,10 @@
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
     <state x="421" y="134" key="SettingsEditor/0.0.1707.1067@0.0.1707.1067" timestamp="1661865215338" />
-    <state x="512" y="225" key="Vcs.Push.Dialog.v2" timestamp="1661865757438">
+    <state x="512" y="225" key="Vcs.Push.Dialog.v2" timestamp="1661873568531">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="512" y="225" key="Vcs.Push.Dialog.v2/0.0.1707.1067@0.0.1707.1067" timestamp="1661865757438" />
+    <state x="512" y="225" key="Vcs.Push.Dialog.v2/0.0.1707.1067@0.0.1707.1067" timestamp="1661873568531" />
     <state x="684" y="203" key="git4idea.branch.GitSmartOperationDialog" timestamp="1661873527843">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
